@@ -1,0 +1,13 @@
+Definisco una lista di reparti, ciascuno dei quali ha un nome e un elenco di spese
+
+Inizializzo le variabili SpesaMax, SpesaMin, repartoMax e repartoMin
+
+Mi creo un forEach che iteri su ciascun reparto nella lista di reparti che calcola la somma delle spese
+
+Aggiorno le variabili SpesaMax e repartoMax 
+
+Aggiorno le variabili SpesaMin e repartoMin 
+
+Mi stampo il nome del reparto che ha speso di più e il valore delle sue spese
+
+Mi stampo il nome del reparto che ha speso di meno e il valore delle sue spese
